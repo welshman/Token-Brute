@@ -1,6 +1,5 @@
 from random import choice
 from requests import get, exceptions
-from datetime import datetime
 from colorama import Fore, Style, init
 init()
 
